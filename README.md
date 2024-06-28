@@ -82,7 +82,7 @@ Please cite our paper if this repository inspires your work.
 }
 ```
 
-# Contact 
+## Contact 
 - meiqichen@stu.pku.edu.cn
 - peng_bo2019@sjtu.edu.cn
 - zhyzhy001@pku.edu.cn
