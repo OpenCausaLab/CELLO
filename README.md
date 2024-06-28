@@ -1,20 +1,24 @@
 # CELLO
-This is the official project website for the paper [CELLO: Causal Evaluation of Large Vision-Language Models](https://arxiv.org/pdf/2403.18346.pdf).
+This is the official project website for the paper [CELLO: Causal Evaluation of Large Vision-Language Models](https://arxiv.org/pdf/2406.19131).
 
 ## Causality in Vision-Language Context
+<div style="text-align: center;">
 <img src="https://github.com/OpenCausaLab/CELLO/blob/e199a1268fc9bf3520a59aaf0b55aec3b9d12593/images/causal_relation.png" alt="" width="40%">
+</div>
 
 ## Pipeline
+<div style="text-align: center;">
 <img src="https://github.com/OpenCausaLab/CELLO/blob/e199a1268fc9bf3520a59aaf0b55aec3b9d12593/images/dataset.png" alt="" width="60%">
-
+</div>
 
 ## Dataset
 ### Link
 [CELLO Dataset](https://github.com/OpenCausaLab/CELLO/blob/5860767b2a213f8527a8ae3e42e0cf60546c8b66/data/cello_data.jsonl)
 
 ### Comparison
+<div style="text-align: center;">
 <img src="https://github.com/OpenCausaLab/CELLO/blob/4aa79ef7f35bab76bfbb69ff7bbfb856cc3e4b36/images/comparisin.png" alt="" width="80%">
-
+</div>
 
 ### Data Format
 ```JSON5
@@ -68,8 +72,9 @@ This is the official project website for the paper [CELLO: Causal Evaluation of 
 ```
 
 ### Statistics
+<div style="text-align: center;">
 <img src="https://github.com/OpenCausaLab/CELLO/blob/4aa79ef7f35bab76bfbb69ff7bbfb856cc3e4b36/images/stat.png" alt="" width="40%">
-
+</div>
 
 ## Citation
 Please cite our paper if this repository inspires your work.
