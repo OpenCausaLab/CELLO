@@ -13,7 +13,9 @@ This is the official project website for the paper [CELLO: Causal Evaluation of 
 
 ## Dataset
 ### Link
-[CELLO Dataset](https://github.com/OpenCausaLab/CELLO/blob/5860767b2a213f8527a8ae3e42e0cf60546c8b66/data/cello_data.jsonl)
+For images: Download from [Visual Genome](https://homes.cs.washington.edu/~ranjay/visualgenome/api.html).
+
+For question, answers, etc: [CELLO Dataset](https://github.com/OpenCausaLab/CELLO/blob/5860767b2a213f8527a8ae3e42e0cf60546c8b66/data/cello_data.jsonl)
 
 ### Comparison
 <p align="center">
@@ -75,6 +77,12 @@ This is the official project website for the paper [CELLO: Causal Evaluation of 
 <p align="center">
 <img src="https://github.com/OpenCausaLab/CELLO/blob/4aa79ef7f35bab76bfbb69ff7bbfb856cc3e4b36/images/stat.png" alt="" width="40%">
 </p>
+
+## Evaluation
+```
+python evaluate_cello.py --model [MODEL_NAME]
+```
+
 
 ## Citation
 Please cite our paper if this repository inspires your work.
