@@ -5,6 +5,7 @@ import os.path
 from model import Huggingface_Models
 from utils import *
 import datetime
+from tqdm import tqdm
 from wandb.sdk.data_types.trace_tree import Trace
 import google.generativeai as genai
 import wandb
